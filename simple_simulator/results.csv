@@ -1,0 +1,12 @@
+parameter,value
+simulation_time,1001.085659
+total_arrivals,850
+jobs_completed,843
+jobs_lost,0
+avg_wait_time,2.742448
+avg_system_time,3.646955
+server_utilization,0.762773
+loss_probability,0.000000
+arrival_intensity,0.800000
+service_intensity,1.000000
+rho,0.800000
